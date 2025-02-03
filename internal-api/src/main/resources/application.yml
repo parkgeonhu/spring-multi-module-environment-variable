@@ -1,0 +1,7 @@
+spring:
+  config:
+    import:
+      - "classpath:spring-config-import.yml"
+  profiles:
+    include:
+      - "spring-profiles-include"

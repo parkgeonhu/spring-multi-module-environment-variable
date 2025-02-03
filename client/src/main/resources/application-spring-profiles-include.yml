@@ -1,0 +1,4 @@
+spring-profiles-include:
+  properties:
+    host: https://partner.kakaopay.com
+    transfer-money-path: /v1/transfer/money/by-spring-profiles-include
